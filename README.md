@@ -1,2 +1,0 @@
-# swiftshieldautoglass
-My awesome repository
